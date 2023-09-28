@@ -1,0 +1,4 @@
+<div style="background-color: white">
+  <h2>QUEM SOMOS</h2>
+  <p>O Grêmio Foot-Ball Porto Alegrense (conhecido apenas por Grêmio e cujo acrônimo é FBPA) é um clube de futebol brasileiro da cidade de Porto Alegre, no Rio Grande do Sul, fundado em 15 de setembro de 1903 por Candido Dias da Silva. É considerado um dos maiores clubes do Brasil e da América do Sul. Suas cores são azul, preto e branco. O clube tem como alcunhas Imortal Tricolor, Tricolor dos Pampas, Tricolor Gaúcho, Rei de Copas e Clube de Todos, devido ao seu histórico especialmente vitorioso em competições de mata-mata.</p>
+</div>
